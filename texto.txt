@@ -1,2 +1,0 @@
-Ejemplo de git rm y git mv
-
